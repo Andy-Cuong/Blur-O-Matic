@@ -1,7 +1,7 @@
 WorkManager Codelab
 ===================================
 
-This repository contains the code for the [WorkManager Codelab](https://developer.android.com/codelabs/basic-android-kotlin-compose-workmanager).
+Solution code by learner for the [WorkManager Codelab](https://developer.android.com/codelabs/basic-android-kotlin-compose-workmanager).
 
 Introduction
 ------------
